@@ -1,0 +1,1 @@
+echo "newjava file printed"
